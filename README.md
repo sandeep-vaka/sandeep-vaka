@@ -10,7 +10,7 @@ I enjoy building practical projects, learning new technologies, and improving my
 
 - **Programming:** C++, Python
 - **Computer Science:** Data Structures and Algorithms, Object-Oriented Programming
-- **Web Development:** HTML, CSS, JavaScript, Django
+- **Web Development:** HTML, CSS, JavaScript, MERN
 - **Databases:** MongoDB, SQL fundamentals
 - **Tools:** Git, GitHub, VS Code
 
